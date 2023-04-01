@@ -1,2 +1,3 @@
 # njRAT-Plugins-SRC-Extract
-This is a test, the plugins may be buggy. This is for my Platinum project.
+This is a test SRC extract. The output is buggy and not suitable for replacing njRATs plugin.  
+Done in dnSPY.
